@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/* table{
+    border: 2px solid black;
+} */
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 15px 1px #000000;
+    margin: auto;
+    display: block;
+}
+.tb1 {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+}
+.tb2 {
+    border-collapse: collapse;
+    width: 600px;
+    height: 1200px;
+    box-shadow: 0px 0px 15px 1px #000000;
+}
+.tb3 {
+    border-collapse: collapse;
+    width: 600px;
+    height: 1200px;
+    box-shadow: 0px 0px 15px 1px #000000;
+    border: 0.3px solid black;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+h3 {
+    font-family: 'Playfair Display', serif;
+}
+.osv {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+.sil {
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    color: black;
+}
+.hob {
+    width: 500px;
+    height: 230px;
+}
+.lin td:hover {
+    border: none;
+    transition: all 0.9s;
+    box-shadow: 0px 0px 15px 1px #000000;
+}
+.sil2 {
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    background-color: rgb(182, 182, 182);
+    color: black;
+    border: 1px solid black;
+    padding: 20px 50px;
+    -webkit-box-shadow: 0px 0px 15px 1px #000000; 
+    box-shadow: 0px 0px 15px 1px #000000;
+}
+.sil2:hover {
+    background-color: rgb(119, 209, 212);
+    color: white;
+    -webkit-box-shadow: 0px 0px 15px 1px #000000; 
+    box-shadow: 0px 0px 15px 1px #000000;
+    transition: 0.7s;
+}
+.con {
+    width: 200px;
+    height: 230px;
+    text-align: center;
+}

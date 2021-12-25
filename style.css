@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+body {
+    background-color: rgb(145, 235, 235);
+}
+h1 {
+    color: darkcyan;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 100px;
+}
+p {
+    color: darkcyan;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 45px;
+}
+a {
+    text-decoration: none;
+}
+td {
+    width: 350px;
+    height: 350px;   
+}
+td:hover  {
+    border: none;
+    width: 450px;
+    height: 450px;
+    transition: all 0.5s;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+table {
+    border-collapse: collapse;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 40px;
+}
+.les {
+    color: darkcyan;
+}
